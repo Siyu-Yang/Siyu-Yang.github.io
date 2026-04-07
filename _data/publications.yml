@@ -1,4 +1,19 @@
-# main:
+main:
+  - title: "Dynamic network analysis of multi-scale-omics data for protein function prediction"
+    authors: <strong>S. Yang</strong>, T. Milenković
+    conference_short: ISMB Oral
+    conference: 32nd Annual Conference on Intelligent Systems for Molecular Biology <strong>(ISMB)</strong>, 2024.
+    # pdf: assets/files/ismb_2024_slides.pdf # 放你的PPT转PDF
+    # image: ./assets/img/protein_network_teaser.png # 放一张漂亮的 PSN 或 Graphlet 拓扑图
+    notes: Oral Presentation & Travel Fellowship
+
+  - title: "Structured Deep Learning Models for Accurate Prediction of Real-world Driving Speed"
+    authors: Z. Zhao, <strong>S. Yang</strong>, et al.
+    conference_short: IJCNN
+    conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2022.
+    # pdf: [你的论文链接]
+    # image: ./assets/img/driving_speed_teaser.png # 放一张轨迹预测的示意图
+
 
 #   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
 #     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
@@ -20,19 +35,3 @@
 #     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 #     notes: Oral Presentation
 #     image: ./assets/img/teaser_example.png
-
-main:
-  - title: "Dynamic network analysis of multi-scale-omics data for protein function prediction"
-    authors: <strong>S. Yang</strong>, T. Milenković
-    conference_short: ISMB Oral
-    conference: 32nd Annual Conference on Intelligent Systems for Molecular Biology <strong>(ISMB)</strong>, 2024.
-    # pdf: assets/files/ismb_2024_slides.pdf # 放你的PPT转PDF
-    # image: ./assets/img/protein_network_teaser.png # 放一张漂亮的 PSN 或 Graphlet 拓扑图
-    notes: Oral Presentation & Travel Fellowship
-
-  - title: "Structured Deep Learning Models for Accurate Prediction of Real-world Driving Speed"
-    authors: Z. Zhao, <strong>S. Yang</strong>, et al.
-    conference_short: IJCNN
-    conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2022.
-    # pdf: [你的论文链接]
-    # image: ./assets/img/driving_speed_teaser.png # 放一张轨迹预测的示意图
