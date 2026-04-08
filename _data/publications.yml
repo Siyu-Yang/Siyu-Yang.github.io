@@ -3,17 +3,17 @@ main:
     authors: <strong>S. Yang</strong>, T. Milenković
     conference_short: ISMB Oral
     conference: 32nd Annual Conference on Intelligent Systems for Molecular Biology <strong>(ISMB)</strong>, 2024.
-    pdf: assets/files/ismb_2024_slides.pdf # 放你的PPT转PDF
-    image: ./assets/img/protein_network_teaser.png # 放一张漂亮的 PSN 或 Graphlet 拓扑图
+    slides: assets/files/ismb24-siyuyang.pdf # 放你的PPT转PDF
+    image: ./assets/img/ismb-siyu.jpg # 放一张漂亮的 PSN 或 Graphlet 拓扑图
     notes: Oral Presentation
     video: [https://www.youtube.com/watch?v=k1lST0MRrmI] # 放你的演讲视频链接
 
   - title: "Dynamic network analysis of protein structural change"
-    authors: A. Wells, <strong>S. Yang</strong>, T. Milenković
+    authors: A. Wells, <strong>S. Yang</strong>, Khalique Newaz, T. Milenković
     conference_short: ISMB Oral
     conference: 32nd Annual Conference on Intelligent Systems for Molecular Biology <strong>(ISMB)</strong>, 2024.
-    pdf: assets/files/ismb_2024_slides.pdf # 放你的PPT转PDF
-    image: ./assets/img/protein_network_teaser.png # 放一张漂亮的 PSN 或 Graphlet 拓扑图
+    slides: assets/files/ISMB2024_3DSIG_COSI.pdf # 放你的PPT转PDF
+    image: ./assets/img/ismb-aydin.jpg # 放一张漂亮的 PSN 或 Graphlet 拓扑图
     notes: Oral Presentation
     video: [https://www.youtube.com/watch?v=7ZVh0lSamyg] 
 
@@ -22,7 +22,7 @@ main:
     conference_short: IJCNN
     conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2022.
     pdf: [https://ieeexplore.ieee.org/document/9891890]
-    # image: ./assets/img/driving_speed_teaser.png # 放一张轨迹预测的示意图
+    image: ./assets/img/ijcnn-fig.jpg # 放一张轨迹预测的示意图
 
 
 #   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
