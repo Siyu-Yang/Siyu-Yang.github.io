@@ -6,6 +6,7 @@ main:
     pdf: assets/files/ismb_2024_slides.pdf # 放你的PPT转PDF
     image: ./assets/img/protein_network_teaser.png # 放一张漂亮的 PSN 或 Graphlet 拓扑图
     notes: Oral Presentation
+    video: [https://www.youtube.com/watch?v=k1lST0MRrmI] # 放你的演讲视频链接
 
   - title: "Dynamic network analysis of protein structural change"
     authors: A. Wells, <strong>S. Yang</strong>, T. Milenković
@@ -14,6 +15,7 @@ main:
     pdf: assets/files/ismb_2024_slides.pdf # 放你的PPT转PDF
     image: ./assets/img/protein_network_teaser.png # 放一张漂亮的 PSN 或 Graphlet 拓扑图
     notes: Oral Presentation
+    video: [https://www.youtube.com/watch?v=7ZVh0lSamyg] 
 
   - title: "Structured Deep Learning Models for Accurate Prediction of Real-world Driving Speed"
     authors: Z. Zhao, <strong>S. Yang</strong>, et al.
