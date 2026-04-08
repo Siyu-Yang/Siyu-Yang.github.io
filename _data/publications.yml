@@ -3,19 +3,19 @@ main:
     authors: <strong>S. Yang</strong>, T. Milenković
     conference_short: ISMB Oral
     conference: 32nd Annual Conference on Intelligent Systems for Molecular Biology <strong>(ISMB)</strong>, 2024.
-    slides: assets/files/ismb24-siyuyang.pdf # 放你的PPT转PDF
+    slides: assets/files/ISMB24-siyuyang.pdf # 放你的PPT转PDF
     image: ./assets/img/ismb-siyu.jpg # 放一张漂亮的 PSN 或 Graphlet 拓扑图
     notes: Oral Presentation
-    video: [https://www.youtube.com/watch?v=k1lST0MRrmI] # 放你的演讲视频链接
+    youtube: [https://www.youtube.com/watch?v=k1lST0MRrmI] # 放你的演讲视频链接
 
   - title: "Dynamic network analysis of protein structural change"
-    authors: A. Wells, <strong>S. Yang</strong>, Khalique Newaz, T. Milenković
+    authors: A. Wells, <strong>S. Yang</strong>, K. Newaz, T. Milenković
     conference_short: ISMB Oral
     conference: 32nd Annual Conference on Intelligent Systems for Molecular Biology <strong>(ISMB)</strong>, 2024.
     slides: assets/files/ISMB2024_3DSIG_COSI.pdf # 放你的PPT转PDF
     image: ./assets/img/ismb-aydin.jpg # 放一张漂亮的 PSN 或 Graphlet 拓扑图
     notes: Oral Presentation
-    video: [https://www.youtube.com/watch?v=7ZVh0lSamyg] 
+    youtube: [https://www.youtube.com/watch?v=7ZVh0lSamyg] 
 
   - title: "Structured Deep Learning Models for Accurate Prediction of Real-world Driving Speed"
     authors: Z. Zhao, <strong>S. Yang</strong>, et al.
