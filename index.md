@@ -11,9 +11,14 @@ Previously, I earned an M.S. in Computer Science and Engineering from the Univer
 
 ## Research Interests
 
-* **Generative Protein Design:** *De novo* antibody design, CDR loop optimization, and geometric complementarity.
+<!-- * **Generative Protein Design:** *De novo* antibody design, CDR loop optimization, and geometric complementarity.
 * **Graph Representation Learning:** Topological motif discovery (Graphlets), Protein Structure Networks (PSNs).
-* **Multimodal AI for Bio:** Integrating protein sequence, structure, and dynamic interaction data.
+* **Multimodal AI for Bio:** Integrating protein sequence, structure, and dynamic interaction data. -->
+
+* **Structure-Based Protein Modeling**
+* **Generative Protein Design**
+* **Geometric and Topological Learning**
+* **Multimodal Learning for Biology**
 
 <!-- ## News
 
