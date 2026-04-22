@@ -13,13 +13,13 @@ description: Siyu Yang's Personal Homepage. Focused on ML for protein modeling a
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/
 cv_link: assets/files/CV/Apr26resume.pdf
-github_link: https://siyu-yang.github.io/
+github_link: https://github.com/Siyu-Yang
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/siyu.jpg
+avatar: ./assets/img/siyu1.png
 favicon: ./assets/img/favicon-new.png
 favicon_dark: ./assets/img/favicon-new.png
 
