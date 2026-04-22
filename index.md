@@ -15,7 +15,7 @@ Previously, I earned an M.S. in Computer Science and Engineering from the Univer
 * **Graph Representation Learning:** Topological motif discovery (Graphlets), Protein Structure Networks (PSNs).
 * **Multimodal AI for Bio:** Integrating protein sequence, structure, and dynamic interaction data. -->
 
-* **Structure\-Based Protein Modeling**
+* **Structure—Based Protein Modeling**
 * **Generative Protein Design**
 * **Geometric and Topological Learning**
 * **Multimodal Learning for Biology**
