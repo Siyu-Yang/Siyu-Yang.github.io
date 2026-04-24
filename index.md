@@ -14,11 +14,26 @@ Previously, I earned an M.S. in Computer Science and Engineering from the **Univ
 <!-- * **Generative Protein Design:** *De novo* antibody design, CDR loop optimization, and geometric complementarity.
 * **Graph Representation Learning:** Topological motif discovery (Graphlets), Protein Structure Networks (PSNs).
 * **Multimodal AI for Bio:** Integrating protein sequence, structure, and dynamic interaction data. -->
+I'm interested in ML for protein modeling and design, with a focus on:
 
-* **Structure Based Protein Modeling**
-* **Generative Protein Design**
-* **Geometric and Topological Learning**
-* **Multimodal Learning for Biology**
+* **Generative Protein & Antibody Design**
+* **Multimodal Learning & Multi-omics Integration**
+* **Geometric and Topological Learning for Protein Structures**
+
+
+<!-- * **Generative Design:** \textit{de novo} design of functional proteins and therapeutic antibodies.
+
+* **Multimodal Learning:** Integration of sequence, structure, and function data.
+
+* **Structural Topology:** Geometric and Topological Learning for Protein Structures. -->
+
+
+<!-- Structure Based Protein Modeling
+Generative Protein Design
+Geometric and Topological Learning
+Multimodal Learning for Biology -->
+
+
 
 <!-- ## News
 
