@@ -17,7 +17,6 @@ I am a Master’s student in Biomedical Informatics at the **UTHealth Houston**,
 * **Multimodal AI for Bio:** Integrating protein sequence, structure, and dynamic interaction data. -->
 <!-- I'm interested in ML for protein modeling and design, with a focus on: -->
 I have a broad interest in AI for biomedical/healthcare, with a focus on:
-
 * **Generative AI for Biomedicine & Therapeutics**
 * **Multimodal Learning for Biomedical Data**
 * **Geometric & Topological Learning for Biomolecular Structures and Health Networks**
