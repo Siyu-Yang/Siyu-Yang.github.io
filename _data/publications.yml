@@ -4,7 +4,7 @@ main:
     conference_short: ISMB Oral
     conference: 32nd Annual Conference on Intelligent Systems for Molecular Biology <strong>(ISMB)</strong>, 2024.
     pdf: assets/files/paper/ismb2024_function_long_abstract.pdf
-    slides: assets/files/slides/ISMB24_function.pdf # 放你的PPT转PDF
+    slides: assets/files/slides/ISMB24_FUNCTION_COSI.pdf # 放你的PPT转PDF
     image: ./assets/img/ismb2024_function.jpg # 放一张漂亮的 PSN 或 Graphlet 拓扑图
     notes: Oral Presentation (Long Abstract)
     youtube: [https://www.youtube.com/watch?v=k1lST0MRrmI] # 放你的演讲视频链接
