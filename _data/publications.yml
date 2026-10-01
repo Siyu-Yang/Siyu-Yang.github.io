@@ -1,4 +1,11 @@
 main:
+  - title: "SimBinder-IF: Structure-Aware Antibody Affinity Optimization via Efficient Preference Learning"
+    authors: X. Zhao, Y.-C. Tang, R. Monsia, V. J. Cantu, A. K. Ramesh, <strong>S. Yang</strong>, X. Liu, Z. An, X. Jiang, Y. Kim
+    conference_short: Bioinformatics
+    conference: <em>Bioinformatics</em>, 2026.
+    pdf: [https://doi.org/10.1093/bioinformatics/btag548]
+    image: ./assets/img/bioinfo2026.jpg
+
   - title: "Dynamic network analysis of multi-scale-omics data for protein function prediction"
     authors: <strong>S. Yang</strong>, T. Milenković
     conference_short: ISMB Oral
@@ -20,7 +27,7 @@ main:
     youtube: [https://www.youtube.com/watch?v=7ZVh0lSamyg] 
 
   - title: "Structured Deep Learning Models for Accurate Prediction of Real-world Driving Speed"
-    authors: Z. Zhao, <strong>S. Yang</strong>, et al.
+    authors: Z. Zhao, <strong>S. Yang</strong>, C. Sauer, A. Teraji, Y. Yamauchi, T. Hirata, A. J. Bisci, Y. L. Murphey
     conference_short: IJCNN
     conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2022.
     pdf: [https://ieeexplore.ieee.org/document/9891890]
